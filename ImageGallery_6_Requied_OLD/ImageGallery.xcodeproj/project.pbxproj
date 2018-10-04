@@ -11,7 +11,6 @@
 		E42FE6E62115CA9A00363580 /* GalleriesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42FE6E52115CA9A00363580 /* GalleriesTableViewController.swift */; };
 		E44EB3F720E107DB0088D566 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E44EB3F620E107DB0088D566 /* ImageViewController.swift */; };
 		E45E753F214BCB55008975FD /* GarbageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45E753E214BCB54008975FD /* GarbageView.swift */; };
-		E469F884214BD07700D47FDC /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E469F883214BD07700D47FDC /* Info.plist */; };
 		E4983BEE20D8CF5700CB501F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4983BED20D8CF5700CB501F /* AppDelegate.swift */; };
 		E4983BF320D8CF5700CB501F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4983BF120D8CF5700CB501F /* Main.storyboard */; };
 		E4983BF520D8CF5A00CB501F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4983BF420D8CF5A00CB501F /* Assets.xcassets */; };
@@ -129,7 +128,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "Stanford University";
 				TargetAttributes = {
 					E4983BE920D8CF5700CB501F = {
@@ -160,7 +159,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E469F884214BD07700D47FDC /* Info.plist in Resources */,
 				E4983BF820D8CF5A00CB501F /* LaunchScreen.storyboard in Resources */,
 				E4983BF520D8CF5A00CB501F /* Assets.xcassets in Resources */,
 				E4983BF320D8CF5700CB501F /* Main.storyboard in Resources */,
